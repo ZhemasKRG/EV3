@@ -1,0 +1,103 @@
+.logo{
+    width: 1px;
+    height: 1px;
+}
+.d123{
+    background-color: rgb(255, 255, 255);
+
+}
+.titulo{
+    color: rgb(0, 0, 0) ;
+
+} 
+.texto{
+    background-color: gray;
+    width: 250px;
+    margin: -10px -10px 0px 40px;
+}
+span.stroke {
+    text-align: center;
+    color: gray;
+    font-family: impact;
+    font-size: 30px;
+    text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+    -webkit-text-fill-color: grey;
+    -webkit-text-stroke: 2px black;
+    }
+
+    span.atencion {
+        text-align: center;
+        color: rgb(247, 232, 17);
+        font-family: impact;
+        font-size: 30px;
+        text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+        -webkit-text-fill-color: rgb(247, 232, 17);
+        -webkit-text-stroke: 2px black;
+        }        
+        .atencion2 {
+            text-align: center;
+            color: rgb(247, 232, 17);
+            font-family: impact;
+            font-size: 20px;
+            text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+            -webkit-text-fill-color: rgb(247, 232, 17);
+            -webkit-text-stroke: 2px black;
+            } 
+
+.hb{
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    border-radius: 50px;
+}
+.hb > img.uno{
+    margin: -10px -10px;
+    width: 60px;
+}
+
+body{
+    margin: 0;
+    background-color: white;
+    font-family: 'calibri';
+    color: black;
+    position: relative;
+    padding-bottom: 2.5em;
+    min-height: 100vh;
+}
+.footer{
+    background-color: whitesmoke;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    padding: 1em 0;
+    border-top: 10px black;
+}
+
+.formulario {
+    width: 500px;
+    background-color: #222529;
+    padding: 30px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    font-size: 17px;
+    color: white;
+    text-align: center;
+    
+
+}
+
+.control{
+    width: 100%;
+    background: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid black;
+    font-family: 'calibri';
+    font-size: 15px;
+}
